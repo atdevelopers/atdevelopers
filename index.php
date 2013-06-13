@@ -51,7 +51,7 @@
         </div>
 
 	</head>
-	<body style="background-image: url('image/background6.jpg');">
+	<body style="background-image: url('image/bg.jpg');background-repeat: repeat;">
 		<div class="margin1" >			
 		</div>
 	</body>
