@@ -1,0 +1,28 @@
+html, body { width: 100%; height: 100%; }
+
+.bg { 
+    width: 100%;
+    height: 100%; 
+    background-image: url('image/background1.jpg');
+    }
+    
+.margin1{
+        padding: 5%;
+        height: 63%;
+        width: 80%;
+        border-style: double;
+        border-color: brown;
+        border-radius: 2% 10% 10% 2%; 
+        margin-left: 5%;
+        }
+.sit_title{
+            color: rgb(185, 71, 7);
+            Trapian Pro Bold;
+            margin-left: 7%;
+            margin-bottom: 3%;
+            line-height: 1%;
+          }
+.tag_line{
+          margin-left: 4%;
+          margin-top: 3%;
+         }
